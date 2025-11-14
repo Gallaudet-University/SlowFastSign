@@ -1,0 +1,9 @@
+dataset/phoenix2014
+dataset/phoenix2014-T
+Dockerfile
+Makefile
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+.git/
