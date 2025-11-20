@@ -1,2 +1,7 @@
 **/__pycache__
 .DS_Store
+.venv
+workdir/
+*/dataset/*
+!*/dataset/dataloader_video.py
+*/ckpt/
