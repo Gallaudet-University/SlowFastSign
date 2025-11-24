@@ -1,4 +1,8 @@
 **/__pycache__
 .DS_Store
-dataset/phoenix2014
-dataset/phoenix2014-T
+dataset/*
+!dataset/.gitkeep
+.venv
+*.log
+checkpoints/*
+!checkpoints/.gitkeep
